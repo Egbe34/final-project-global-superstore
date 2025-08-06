@@ -1,0 +1,18 @@
+category,sub_category,total_sales,total_profit,total_quantity,profit_margin,profit_label
+Furniture,Tables,919102642.0,-382004930.0,3083.0,-0.42,Loss
+Office Supplies,Supplies,135373773.0,-49698949.0,8543.0,-0.37,Loss
+Furniture,Bookcases,1262471095.0,-8568975.0,8310.0,-0.01,Loss
+Office Supplies,Fasteners,55281511.0,-7791608.0,8390.0,-0.14,Loss
+Office Supplies,Art,176399745.0,24797208.0,16301.0,0.14,Profit
+Office Supplies,Envelopes,104647594.0,27100802.0,8380.0,0.26,Profit
+Office Supplies,Labels,44770080.0,32192718.0,9322.0,0.72,Profit
+Technology,Machines,785356225.0,73330720.0,4906.0,0.09,Profit
+Furniture,Furnishings,257624409.0,90809814.0,11225.0,0.35,Profit
+Furniture,Chairs,1144451471.0,116549728.0,12336.0,0.1,Profit
+Technology,Accessories,367419718.0,168797620.0,10946.0,0.46,Profit
+Office Supplies,Storage,740741812.0,175905049.0,16917.0,0.24,Profit
+Office Supplies,Binders,246050472.0,178244162.0,21429.0,0.72,Profit
+Office Supplies,Appliances,909944544.0,182535265.0,6078.0,0.2,Profit
+Office Supplies,Paper,115258174.0,204006691.0,12822.0,1.77,Profit
+Technology,Phones,1378953610.0,388121266.0,11870.0,0.28,Profit
+Technology,Copiers,23319431708.0,3361592012.0,7454.0,0.14,Profit
