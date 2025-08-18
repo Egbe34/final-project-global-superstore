@@ -68,7 +68,7 @@ It combines **descriptive analytics**, **statistical testing**, and **interactiv
 -  **Notebook** → [Open analysis.ipynb](./notebooks/1_data_loading_preview.ipynb)  
 -  **Power BI Dashboard** → [Download Final_Project_Dashboard.pbix](./Powerbi%20dashboard/Final_Project_Dashboard.pbix)  
 -  **Presentation** → [Download PowerPoint (.pptx)](./Presentation/A%20journey%20through%20the%20Global%20Economy%20(1)%20(1).pptx)  
-
+                      (https://docs.google.com/presentation/d/1DsdYUjyjQjNTQVWSHFW5C4xvO2wGCCL1/edit?slide=id.p1#slide=id.p1 )
 
 
 
