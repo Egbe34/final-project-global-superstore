@@ -62,9 +62,15 @@ It combines **descriptive analytics**, **statistical testing**, and **interactiv
 │── dashboards/           # Power BI files
 │── images/               # Screenshots & charts
 │── README.md              # Project documentation
-```
 
----
+##  Project Files
+
+-  **Notebook** → [Open analysis.ipynb](./notebooks/1_data_loading_preview.ipynb)  
+-  **Power BI Dashboard** → [Download Final_Project_Dashboard.pbix](./Powerbi%20dashboard/Final_Project_Dashboard.pbix)  
+-  **Presentation** → [Download PowerPoint (.pptx)](./Presentation/A%20journey%20through%20the%20Global%20Economy%20(1)%20(1).pptx)  
+
+
+
 
 ##  Author
 **Egbe** – Data Analyst  
