@@ -9,7 +9,7 @@ It combines **data cleaning and ER modeling**, **descriptive analytics**, **stat
 
 ---
 
-## 🔎 Preview  
+##  Preview  
 
 ### Business Questions  
 Every project starts with the right questions. Here we defined what matters most: sales, profit, customers, and markets.  
@@ -46,7 +46,7 @@ To go beyond dashboards, we tested assumptions with statistical methods, adding 
 
 
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Power BI** – KPI dashboards & visual analytics
 - **Python** – Data cleaning, EDA, hypothesis testing
 - **SQLite** – Database creation & SQL queries
@@ -86,7 +86,7 @@ To go beyond dashboards, we tested assumptions with statistical methods, adding 
 
 
 
-## 📂 Folder Structure
+##  Folder Structure
 
 /GlobalSuperstore-Analysis
 │── data/                 # Dataset files
